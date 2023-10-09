@@ -1,7 +1,13 @@
 
 
 
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<euaday>/<euaday>/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<euaday>/<euaday>/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<euaday>/<euaday>/output-3d-contrib/day.svg" />
+	</picture>
+</p>
   
 
   
@@ -14,7 +20,7 @@
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,tailwind,nodejs,github,bootstrap,discord,linkedin,instagram" />
 </a>
-  <br />
+  <br/>
 
   </div>
 
